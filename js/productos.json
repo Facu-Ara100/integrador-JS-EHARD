@@ -1,0 +1,183 @@
+[{
+        "id": "cpu01",
+        "titulo": "INTEL PENTIUM G7400",
+        "imagen": "img/cpu/cpu01.jpg",
+        "categoria": {
+            "nombre": "CPU",
+            "id": "cpu"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cpu02",
+        "titulo": "INTEL CORE I3 12100F",
+        "imagen": "./img/cpu/cpu02.jpg",
+        "categoria": {
+            "nombre": "CPU",
+            "id": "cpu"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cpu03",
+        "titulo": "INTEL CORE I5 12600K",
+        "imagen": "./img/cpu/cpu03.jpg",
+        "categoria": {
+            "nombre": "CPU",
+            "id": "cpu"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cpu04",
+        "titulo": "INTEL CORE I7 12700K",
+        "imagen": "./img/cpu/cpu04.jpg",
+        "categoria": {
+            "nombre": "CPU",
+            "id": "cpu"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cpu05",
+        "titulo": "INTEL CORE I9 12900K",
+        "imagen": "./img/cpu/cpu05.jpg",
+        "categoria": {
+            "nombre": "CPU",
+            "id": "cpu"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "motherboard01",
+        "titulo": "Gigabyte H610M H",
+        "imagen": "./img/mother/motherboard01.jpg",
+        "categoria": {
+            "nombre": "Motherboard",
+            "id": "motherboard"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "motherboard02",
+        "titulo": "Gigabyte B660M DS3H",
+        "imagen": "./img/mother/motherboard02.jpg",
+        "categoria": {
+            "nombre": "Motherboard",
+            "id": "motherboard"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "motherboard03",
+        "titulo": "TUF Z690-PLUS WIFI D4",
+        "imagen": "./img/mother/motherboard03.jpg",
+        "categoria": {
+            "nombre": "Motherboard",
+            "id": "motherboard"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "motherboard04",
+        "titulo": "MSI MEG Z690 UNIFY",
+        "imagen": "./img/mother/motherboard04.jpg",
+        "categoria": {
+            "nombre": "Motherboard",
+            "id": "motherboard"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "motherboard05",
+        "titulo": "MSI Z690-A",
+        "imagen": "./img/mother/motherboard05.jpg",
+        "categoria": {
+            "nombre": "Motherboard",
+            "id": "motherboard"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "motherboard06",
+        "titulo": "GIGABYTE B660M AORUS PRO",
+        "imagen": "./img/mother/motherboard06.jpg",
+        "categoria": {
+            "nombre": "Motherboard",
+            "id": "motherboard"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "motherboard07",
+        "titulo": "GIGABYTE Z690 AERO G",
+        "imagen": "./img/mother/motherboard07.jpg",
+        "categoria": {
+            "nombre": "Motherboard",
+            "id": "motherboard"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "motherboard08",
+        "titulo": "MSI PRO B650M-A WIFI SAM5",
+        "imagen": "./img/mother/motherboard08.jpg",
+        "categoria": {
+            "nombre": "Motherboard",
+            "id": "motherboard"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "ram01",
+        "titulo": "ADATA XPG 16GB 5200",
+        "imagen": "./img/ram/ram01.png",
+        "categoria": {
+            "nombre": "Ram",
+            "id": "ram"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ram02",
+        "titulo": "PNY MAKO 16GB 6000 ",
+        "imagen": "./img/ram/ram02.png",
+        "categoria": {
+            "nombre": "Ram",
+            "id": "ram"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ram03",
+        "titulo": "KINGSTON FURY 16GB 6000 ",
+        "imagen": "./img/ram/ram03.png",
+        "categoria": {
+            "nombre": "Ram",
+            "id": "ram"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ram04",
+        "titulo": "PNY PERFORMANCE 16GB 4800",
+        "imagen": "./img/ram/ram04.png",
+        "categoria": {
+            "nombre": "Ram",
+            "id": "ram"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ram05",
+        "titulo": "ADATA XPG 16GB 5200",
+        "imagen": "./img/ram/ram05.png",
+        "categoria": {
+            "nombre": "Ram",
+            "id": "ram"
+        },
+        "precio": 1000
+    }
+]
